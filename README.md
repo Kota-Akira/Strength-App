@@ -5,7 +5,7 @@
 - `Project.aep`: After Effects 源文件。
 
 ## ⚙️ 开发参数
-- **尺寸**: 800x800 px
+- **尺寸**: 322x322 px
 - **背景**: 透明 (Transparent)
 - **循环**: 是 (Loop)
 - **交互**: 搜索到设备后建议 Fade Out (淡出)。
